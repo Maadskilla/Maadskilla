@@ -1,17 +1,16 @@
 # Hello, I’m Rotshak 👋
 <a href="https://linkedin.com/rotshak_david"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I tinker with the digital world until it bends to my curiosity.  
-I build systems that adapt, respond, and hold their ground.
-My work plays in spaces that demand inventive brains,
-precise hands, and a stubbornness sharp enough to make a difference.  
-I thrive around problems that challenge me, teach me, and make me better than yesterday.  
+I build resilient digital systems and lean into problems that demand precision, curiosity, and grit.
 
 ## Objective
-My journey in computer science has taken me from building intelligent systems to full-stack applications, sparking a fascination with cybersecurity. I’m still exploring, learning, and seeking challenges that stretch my skills and help me grow as a technologist.
+Over the years my computer science journey lunched me across different layers of the digital stack - from building and maintaining web applications to understanding how users interact with systems in digital marketing, and ultimately to defending those systems against modern security threats. This progression has shaped how I approach security: not as an add-on, but as a design principle embedded from the start.
+
+As cyber threats grow in scale, automation, and sophistication, the core challenge remains building systems that adapt without breaking, scale without exposing risk, and remain trustworthy under pressure. I’m particularly interested in security-first system design, cloud and web security, and the real-world trade-offs involved in protecting applications.
+
+I use this space to document what I’m learning, build projects that strengthen my understanding, and experiment with ideas that improve system resilience, while continuing to grow as a technologist focused on long-term digital security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +22,6 @@ My journey in computer science has taken me from building intelligent systems to
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +44,6 @@ My journey in computer science has taken me from building intelligent systems to
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />

@@ -6,7 +6,7 @@ I build resilient digital systems and lean into problems that demand precision, 
 ## Objective
 Over the years my computer science journey lunched me across different layers of the digital stack - from building and maintaining web applications to understanding how users interact with systems in digital marketing, and ultimately to defending those systems against modern security threats. This progression has shaped how I approach security: not as an add-on, but as a design principle embedded from the start.
 
-As cyber threats grow in scale, automation, and sophistication, the core challenge remains building systems that adapt without breaking, scale without exposing risk, and remain trustworthy under pressure. I’m particularly interested in security-first system design, cloud and web security, and the real-world trade-offs involved in protecting applications.
+As cyber threats grow in scale, automation, and sophistication, the core challenge is not building systems, but adapting them without breaking, scale without exposing risk, and remain trustworthy under pressure. I’m particularly interested in security-first system design, cloud and web security, and the real-world trade-offs involved in protecting applications.
 
 I use this space to document what I’m learning, build projects that strengthen my understanding, and experiment with ideas that improve system resilience, while continuing to grow as a technologist focused on long-term digital security.
 

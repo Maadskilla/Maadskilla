@@ -1,4 +1,4 @@
-# Hello, I’m Rotshak 👋
+# Hello, I’m Shak 👋
 <a href="https://linkedin.com/rotshak_david"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I build resilient digital systems and lean into problems that demand precision, curiosity, and grit.

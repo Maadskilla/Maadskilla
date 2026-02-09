@@ -14,7 +14,7 @@ I use this space to document what I’m learning, build projects that strengthen
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Application Security / AppSec             | <a href="https://github.com/Maadskilla/web_security_labs/blob/main/>Web Security Labs</a>|
+| Web Application Security / AppSec             | <a href="https://github.com/Maadskilla/web_security_labs/tree/main">Web Security Labs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

@@ -4,12 +4,25 @@
 I build resilient digital systems and lean into problems that demand precision, curiosity, and grit.
 
 ## Objective
-Over the years my computer science journey lunched me across different layers of the digital stack - from building and maintaining web applications to understanding how users interact with systems in digital marketing, and ultimately to defending those systems against modern security threats. This progression has shaped how I approach security: not as an add-on, but as a design principle embedded from the start.
+I started out building things.
 
-As cyber threats grow in scale, automation, and sophistication, the core challenge is not building systems, but adapting them without breaking, scale without exposing risk, and remain trustworthy under pressure. I’m particularly interested in security-first system design, cloud and web security, and the real-world trade-offs involved in protecting applications.
+Web applications, small tools, broken systems that needed fixing, anything that helped me understand how software actually works beneath the surface.
 
-I use this space to document what I’m learning, build projects that strengthen my understanding, and experiment with ideas that improve system resilience, while continuing to grow as a technologist focused on long-term digital security.
+Along the way I moved through different layers of the stack: development, digital systems, and eventually security. That shift changed how I see technology. Security isn’t something you bolt on after a product is built,it’s something that has to exist in the architecture from day one.
 
+Today I focus on understanding how systems fail, how they are abused, and how they can be designed to withstand real-world threats.
+
+Most of what you’ll find here are experiments, lab work, and projects where I break things, rebuild them, and document what I learn in the process. This space is less about perfection and more about sharpening the craft.
+
+Areas I’m actively exploring:
+• Web & Application Security  
+• Cloud Security Fundamentals  
+• Secure System Design  
+• Practical Cyber Defense
+
+i'll keep growing the list as i go.
+
+Still learning. Still building. Still asking better questions about how the internet actually works.
 ## Skills
 
 | Skill                                         | Associated Project         |
